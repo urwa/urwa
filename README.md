@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently working remotely as a Plumber of Data Science a.k.a Data Engineer for a German company. Interesting journey so far. Love the team and their hard work.
+I am currently working remotely as a Plumber of Data Science a.k.a Data Engineer for a Germany based marketing company. Interesting journey so far. Love the team and their hard work.
 
 Also haven been contributing to Jenkins for some time (not much to be honest), amazing community and people and very welcoming.
 
