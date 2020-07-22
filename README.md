@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am currently working remotely as a Plumber of Data Science* a.k.a Data Engineer for a Germany based marketing company. Interesting journey so far. Love the team and their hard work.
 
-Also haven been contributing to Jenkins for some time (not much to be honest), amazing community and people and very welcoming.
+Also contributed to Jenkins for some time (not much to be honest but enough to make it to Arctic Code Vault Contributor), amazing community and people, very welcoming.
 
 If you are uncertain about your place in tech world, always doubtful if you will ever be good enough, struggling with self confidence, feel overwhelmed by men dominated field, do not apply for jobs because it says 2 years experience and you have only 1, are/have been bullied, have worked in a toxic work environment, have been underpaid and overworked, and you are a woman, muslim, asian and still love tech to the core. PLEASE DO NOT FEEL ALONE. Been there and done that. You can do this too. Drop me a message and I would be happy to talk to you. :) 
 
