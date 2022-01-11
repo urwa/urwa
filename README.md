@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently working remotely as a Plumber of Data Science* a.k.a Data Engineer for a Germany based marketing company. Interesting journey so far. Love being part of the amazing, hardworking and fun team. Also contributed to Jenkins for some time (not much to be honest but enough to make it to Arctic Code Vault Contributor), amazing community and people, very welcoming.
+I am currently working as a Data Engineer for a Germany based marketing company. Interesting journey so far. Love being part of the amazing, hardworking and fun team. Also contributed to Jenkins for some time (not much to be honest but enough to make it to Arctic Code Vault Contributor), amazing community and people, very welcoming.
 
 #ThanksForHelp
 Just want to put it out there, I wish I could thank a lot of random people who went out of the way to help, support and guide me. People I found on medium blogs, linkedin, women tech groups, seniors, stackoverflow community, reddit threads etc. I hope I can do the same for other random people. From answering stupid questions, posting and engaging with related posts, giving some mature advice, sharing blogs, links to my questions, just thank you. Every single thing was super helpful.
@@ -32,5 +32,3 @@ All praise to ALLAH for all he has blessed me with. :)
 Oh and yes I finally paid for a domain and got a free hosting on github pages. You can too :) 
 https://urvahshabbir.com/
 
-
-*title taken from https://andreaskretz.com/
