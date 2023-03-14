@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently working as a Data Engineer for a Germany based marketing company. Interesting journey so far. Love being part of the amazing, hardworking and fun team. Also contributed to Jenkins for some time (not much to be honest but enough to make it to Arctic Code Vault Contributor), amazing community and people, very welcoming.
 
 **#ThanksForHelp**
 
