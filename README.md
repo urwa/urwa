@@ -30,6 +30,4 @@ https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/
 
 All praise to ALLAH for all he has blessed me with. :)
 
-Oh and yes I finally paid for a domain and got a free hosting on github pages. You can too :) 
-https://urvahshabbir.com/
 
